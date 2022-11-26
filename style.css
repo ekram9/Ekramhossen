@@ -51,3 +51,21 @@ section {
     background-position: right;
 
 }
+
+.full {
+    background-color: blueviolet;
+
+}
+
+.jounior {
+    background-color: blueviolet;
+}
+
+.experience {
+    background-image: url(images/bg.png);
+}
+
+footer {
+    background-color: rgb(240, 191, 56);
+    text-align: center;
+}
