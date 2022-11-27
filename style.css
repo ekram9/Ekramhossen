@@ -7,6 +7,28 @@ h1 {
     font-size: 50px;
 }
 
+h1:hover {
+    color: fuchsia;
+}
+
+li:hover {
+    color: rgb(28, 202, 233);
+
+}
+
+
+img:hover {
+    animation-play-state: running;
+}
+
+p:hover {
+    color: rgb(13, 43, 209);
+}
+
+h3:hover {
+    color: rgb(63, 240, 18);
+}
+
 .blue {
     color: blueviolet;
 }
